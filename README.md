@@ -1,6 +1,6 @@
-# CKA---Essentials
+# Kubernetes-Essentials
 
-Certified Kubernetes Administrator - Essential learning path created by me with a bit of help from my AI companion.
+Kubernetes - Essential learning path created by me with a bit of help from my AI companion. ( CKA and General Knowlege
 
 ## Table of Contents – Kubernetes Documentation
 
@@ -40,7 +40,7 @@ Certified Kubernetes Administrator - Essential learning path created by me with 
 - etcd Backup & Restore
 - Key Kubernetes Commands
 
-## [**3️⃣ Workloads & Scheduling (15%)**](Docs/2️⃣%20Workloads%20&%20Scheduling%20(15%).md)
+### [**3️⃣ Workloads & Scheduling (15%)**](Docs/2️⃣%20Workloads%20&%20Scheduling%20(15%).md)
 - Kubernetes Workloads Overview
 - Pods & Containers:
   - Creating and Managing Pods
@@ -116,3 +116,26 @@ Certified Kubernetes Administrator - Essential learning path created by me with 
 - Kubernetes Security Considerations:
   - RBAC & Pod Security Contexts
 - Kubernetes Optimization Tips
+
+### [**1️⃣0️⃣ Deployment Methodologies**](Docs/Kubernetes%20Deployment%20Methodologies.md)
+- Rolling Updates
+  - Definition & Benefits
+  - YAML Configuration Example
+  - Key Commands
+- Recreate Strategy
+  - Definition & Use Cases
+  - YAML Configuration Example
+  - Key Commands
+- Blue-Green Deployment
+  - Definition & Steps
+  - YAML Configuration Example
+  - Switching Traffic Between Versions
+  - Key Commands
+- Canary Deployment
+  - Definition & Gradual Rollout Process
+  - YAML Configuration Example
+  - Key Commands
+- A/B Testing Deployment
+  - Definition & Targeted Traffic Routing
+  - YAML Configuration Example
+  - Key Commands
