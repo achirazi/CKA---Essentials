@@ -4,7 +4,7 @@ Certified Kubernetes Administrator - Essential learning path created by me with 
 
 ## Table of Contents – Kubernetes Documentation
 
-### [**1️⃣ Certified Kubernetes Administrator - Overview**][Docs/Certified Kubernetes Administrator - Overview.md]
+### [**1️⃣ Certified Kubernetes Administrator - Overview**](Docs/Certified%20Kubernetes%20Administrator%20-%20Overview.m)
 - Introduction to the CKA Exam
 - Exam Duration, Format, and Passing Score
 - Core Topics Breakdown:
@@ -18,7 +18,7 @@ Certified Kubernetes Administrator - Essential learning path created by me with 
 - Hands-on Practice Recommendations
 - Study Materials & Resources
 
-### [**2️⃣ Cluster Architecture, Installation & Configuration (25%)**][Docs/1️⃣ Cluster Architecture, Installation & Configuration (25%)Untitled.md]
+### [**2️⃣ Cluster Architecture, Installation & Configuration (25%)**](Docs/1️⃣%20Cluster%20Architecture,%20Installation%20&%20Configuration%20(25%)Untitled.md)
 - Kubernetes Architecture Overview
 - Control Plane Components:
   - API Server
@@ -40,7 +40,7 @@ Certified Kubernetes Administrator - Essential learning path created by me with 
 - etcd Backup & Restore
 - Key Kubernetes Commands
 
-## [**3️⃣ Workloads & Scheduling (15%)**][Docs/2️⃣ Workloads & Scheduling (15%).md]
+## [**3️⃣ Workloads & Scheduling (15%)**](Docs/2️⃣%20Workloads%20&%20Scheduling%20(15%).md)
 - Kubernetes Workloads Overview
 - Pods & Containers:
   - Creating and Managing Pods
@@ -55,7 +55,7 @@ Certified Kubernetes Administrator - Essential learning path created by me with 
 - Pod Scheduling & Node Selection:
   - Node Affinity, Taints, and Tolerations
 
-### [**4️⃣ Services & Networking (20%)**][Docs/3️⃣ Services & Networking (20%).md]
+### [**4️⃣ Services & Networking (20%)**](Docs/3️⃣%20Services%20&%20Networking%20(20%).md)
 - Understanding Kubernetes Networking
 - Service Types:
   - ClusterIP
@@ -66,7 +66,7 @@ Certified Kubernetes Administrator - Essential learning path created by me with 
 - Network Policies
 - CoreDNS & Debugging DNS Issues
 
-### [**5️⃣ Storage (10%)**][Docs/4️⃣ Storage (10%).md]
+### [**5️⃣ Storage (10%)**](Docs/4️⃣%20Storage%20(10%).md)
 - Storage Concepts in Kubernetes
 - Ephemeral Storage:
   - emptyDir Usage
@@ -75,7 +75,7 @@ Certified Kubernetes Administrator - Essential learning path created by me with 
 - Volume Types (hostPath, NFS, Cloud Storage)
 - PVC Backup & Restore
 
-### [**6️⃣ Troubleshooting (30%)**][Docs/5️⃣ Troubleshooting (30%).md]
+### [**6️⃣ Troubleshooting (30%)**](Docs/5️⃣%20Troubleshooting%20(30%).md)
 - Debugging Pods & Containers:
   - Checking Logs & Events
   - Identifying CrashLoopBackOff & ImagePullBackOff Issues
@@ -88,7 +88,7 @@ Certified Kubernetes Administrator - Essential learning path created by me with 
 - Persistent Storage Troubleshooting
 - etcd Backup & Recovery
 
-### [**7️⃣ Exam Tips & Best Practices**][Docs/📌 Exam Tips & Best Practices.md]
+### [**7️⃣ Exam Tips & Best Practices**](Docs/📌%20Exam%20Tips%20&%20Best%20Practices.md)
 - Understanding the CKA Exam Environment
 - Time Management Strategies
 - YAML Generation & Management Tips
@@ -97,7 +97,7 @@ Certified Kubernetes Administrator - Essential learning path created by me with 
 - Essential Troubleshooting Commands
 - Final Exam Preparation Checklist
 
-### [**8️⃣ Kubernetes Cheat Sheet**][Docs/📌 Kubernetes Cheat Sheet.md]
+### [**8️⃣ Kubernetes Cheat Sheet**](Docs/📌%20Kubernetes%20Cheat%20Sheet.md)
 - Cluster Management Quick Commands
 - Pods & Deployments Cheat Sheet
 - Services & Networking Commands
@@ -105,7 +105,7 @@ Certified Kubernetes Administrator - Essential learning path created by me with 
 - Troubleshooting & Debugging Commands
 - Exam Day Command References
 
-### [**9️⃣ Kubernetes Extra Details & Good-to-Know Concepts**][Docs/📌 Kubernetes Extra Details & Good to Know Concepts.md]
+### [**9️⃣ Kubernetes Extra Details & Good-to-Know Concepts**](Docs/📌%20Kubernetes%20Extra%20Details%20&%20Good%20to%20Know%20Concepts.md)
 - API Groups & Resource Versions
 - Workload Best Practices:
   - Resource Limits & Probes
